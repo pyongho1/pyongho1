@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: ...
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pyongho1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pyongho1/pyongho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
