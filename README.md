@@ -1,8 +1,13 @@
 ### Hi 👋
 
+I am a software engineer that is interested developing software especially in Javascript, Node, and Typescript.
+
+---
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/pyongho1/StrapDown.js/graphs/commit-activity)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyongho1&show_icons=true&theme=radical)
 
