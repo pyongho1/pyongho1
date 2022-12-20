@@ -2,16 +2,21 @@
 
 I am a software engineer that is interested developing software especially in Javascript, Node, and Typescript. I am excited by the opportunity to create something impactful and meaningful through coding, and my experience as a cafe manager has given me the ability to work effectively in a team environment. The more I learn, the more I am eager to see what I will be able to create next.
 
----
+## About Me
 
+- Currently finishing Bootcamp from General Assembly
+- Loves anything related to coffee (Previous cafe manager)
+- Multilingual in English and Korean
+
+#
+
+![Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyongho1&show_icons=true&theme=radical)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/pyongho1/StrapDown.js/graphs/commit-activity)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyongho1&show_icons=true&theme=radical)
-
-- 📫 How to reach me:
+📫 How to reach me:
 
 #
 
