@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am a software engineer that is interested developing software especially in Javascript, Node, and Typescript.
+I am a software engineer that is interested developing software especially in Javascript, Node, and Typescript. I am excited by the opportunity to create something impactful and meaningful through coding, and my experience as a cafe manager has given me the ability to work effectively in a team environment. The more I learn, the more I am eager to see what I will be able to create next.
 
 ---
 
@@ -11,7 +11,9 @@ I am a software engineer that is interested developing software especially in Ja
 
 ![Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyongho1&show_icons=true&theme=radical)
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+
+#
 
 <!--
 **pyongho1/pyongho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
