@@ -21,7 +21,7 @@ I am a software engineer that is interested developing software especially in Ja
 
 ### How to reach me: 📫
 
-<a href="https://www.linkedin.com/in/yong-ho-park/"><img src="{ttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /></a>
+<img href="https://www.linkedin.com/in/yong-ho-park/" src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 #
 
