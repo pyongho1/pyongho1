@@ -5,7 +5,7 @@ I am a software engineer that is interested developing software especially in Ja
 ## About Me
 
 - Currently finishing Bootcamp from General Assembly
-- Loves anything related to coffee (Previous cafe manager)
+- Loves anything related to coffee ☕️ (Previous cafe manager)
 - Multilingual in English and Korean
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyongho1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +21,7 @@ I am a software engineer that is interested developing software especially in Ja
 
 ### How to reach me: 📫
 
-<a href="https://www.linkedin.com/in/yong-ho-park/">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
+<a href="https://www.linkedin.com/in/yong-ho-park/"><img src="{ttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /></a>
 
 #
 
