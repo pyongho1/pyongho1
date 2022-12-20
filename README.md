@@ -20,8 +20,8 @@ I am a software engineer that is interested developing software especially in Ja
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### How to reach me: 📫
-
-<img href="https://www.linkedin.com/in/yong-ho-park/" src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+Linkedin: https://www.linkedin.com/in/yong-ho-park/
+Email: pyongho0306@gmail.com
 
 #
 
