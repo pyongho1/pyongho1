@@ -4,7 +4,7 @@ I am a software engineer that is interested developing software especially in Ja
 
 ## About Me
 
-- Currently finishing Bootcamp from General Assembly
+- Bootcamp Graduate from General Assembly
 - Loves anything related to coffee ☕️ (Previous cafe manager)
 - Multilingual in English and Korean
 
